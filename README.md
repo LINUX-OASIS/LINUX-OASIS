@@ -5,7 +5,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpqZTBpM2I4NTRkcDZsajNobWQ2Y3NpMTl5NXB1eXNnbmx1cWQzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300" alt="Magical Linux Wizard"/>
   <br><br>
   <p>
-    <b>Student | Linux Enthusiast | Bash Script Sorcerer</b>
+    <b>Linux Enthusiast | Bash Script Sorcerer | Student</b>
   </p>
   <p>
     <code>Linux</code> • <code>Bash Scripting</code> <br>
