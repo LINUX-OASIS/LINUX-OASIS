@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>🧙‍♂️✨ Welcome to LINUX-OASIS! ✨🧙‍♂️</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDA5d3VqNzE4eHg3dGg2aXpsb2w1OGVvMHR0aHh0N3ZnbW5qd2F4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tPplGWjN0xLybiU/giphy.gif" width="300" alt="Magical Linux Wizard"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpqZTBpM2I4NTRkcDZsajNobWQ2Y3NpMTl5NXB1eXNnbmx1cWQzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300" alt="Magical Linux Wizard"/>
   <br><br>
   <p>
     <b>Student | Linux Enthusiast | Bash Script Sorcerer</b>
@@ -22,7 +22,7 @@ Hi there! I’m <b>LINUX-OASIS</b>, a student with a passion for the magical wor
 - 🧙‍♂️ I wield Bash like a wizard wields a staff.
 - 💻 My realm is the terminal — where spells (scripts) come to life.
 - 📡 Always exploring new frontiers in open-source and automation.
-- 🖧 Networking, automation, and system sorcery are my specialties.
+- 📟 Linux automation, and system sorcery are my specialties.
 
 ---
 
