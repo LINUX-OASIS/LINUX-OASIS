@@ -43,9 +43,6 @@ Hi there! I’m <b>LINUX-OASIS</b>, a student with a passion for the magical wor
 > "There are only two hard things in Computer Science: cache invalidation and naming things."  
 > <sub>— Phil Karlton</sub>
 
-> "Premature optimization is the root of all evil."  
-> <sub>— Donald Knuth</sub>
-
 ---
 
 ### 📖 Skills & Spells
