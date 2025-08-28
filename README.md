@@ -55,7 +55,7 @@ Hi there! I’m <b>LINUX-OASIS</b>, a student with a passion for the magical wor
 
 ### 🌟 Fun Fact
 
-Just like a wizard’s incantations, my scripts are crafted with care and curiosity. I believe that automation is the closest thing to real magic in the digital realm!
+Just like a wizard’s incantations, my scripts are crafted with care and curiosity.
 
 ---
 
