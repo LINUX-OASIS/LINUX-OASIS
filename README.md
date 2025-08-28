@@ -19,7 +19,6 @@
 
 Hi there! I’m <b>LINUX-OASIS</b>, a student with a passion for the magical world of Linux and the arcane arts of Bash scripting. My journey is powered by curiosity, command lines, and a sprinkle of technological enchantment.
 
-- 🧙‍♂️ I wield Bash like a wizard wields a staff.
 - 💻 My realm is the terminal — where spells (scripts) come to life.
 - 📡 Always exploring new frontiers in open-source and automation.
 - 📟 Linux automation, and system sorcery are my specialties.
