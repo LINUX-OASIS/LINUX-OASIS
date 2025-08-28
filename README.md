@@ -36,7 +36,7 @@ Hi there! I’m <b>LINUX-OASIS</b>, a student with a passion for the magical wor
 > "Talk is cheap. Show me the code."  
 > <sub>— Linus Torvalds</sub>
 
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
+> "Anyone can write code that a computer can understand. Good programmers write code that humans can understand."  
 > <sub>— Martin Fowler</sub>
 
 > "There are only two hard things in Computer Science: cache invalidation and naming things."  
