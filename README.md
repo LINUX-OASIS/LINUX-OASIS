@@ -30,9 +30,6 @@ Hi there! I’m <b>LINUX-OASIS</b>, a student with a passion for the magical wor
 > “Good code is its own best documentation.”  
 > <sub>— Steve McConnell</sub>
 
-> “There is no such thing as a perfect program.”  
-> <sub>— Unknown, but every senior dev ever</sub>
-
 > "Talk is cheap. Show me the code."  
 > <sub>— Linus Torvalds</sub>
 
