@@ -56,7 +56,7 @@ Just like a wizard’s incantations, my scripts are crafted with care and curios
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Q2Y3d0Ym1oZW5yNjlzNnRkYjF1aDZvNHpwOGZsN3M1a3B1ZG5yZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJqZHJsbnAxcWJ4OTVxOHluOHBvNGZ6aWhjeDFvdjczbmw1bjZ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VX7yEoXAFf8as/giphy.gif)" width="200" alt="Linux Wizard Sparkles"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJqZHJsbnAxcWJ4OTVxOHluOHBvNGZ6aWhjeDFvdjczbmw1bjZ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VX7yEoXAFf8as/giphy.gif" width="200" alt="Linux Wizard Server Transfer"/>
   <br>
   <b>May your commands always return 0! 🔮</b>
 </div>
